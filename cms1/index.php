@@ -13,7 +13,7 @@
 			echo"<br/>";
 			$somme_age+= (int)$value;
 		}
-		echo "<br/>";
+		echo "<br/>i<br />";
 		echo "La somme des ages vaut : $somme_age ans";
 		echo "<br/><br/>";
 		$i=5; $j=5;
