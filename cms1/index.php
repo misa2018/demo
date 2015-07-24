@@ -5,6 +5,7 @@
   <title>CMS Project</title>
 </head>
 <body>
+	<b>Title not found</b>
 	<?php
 		$age= array("John"=>25, "Anne"=>30, "July"=>13);
 		$somme_age=0;
